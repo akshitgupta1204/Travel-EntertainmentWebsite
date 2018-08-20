@@ -1,0 +1,6 @@
+1. http://homework8-env.ew8zmcb2mm.us-east-2.elasticbeanstalk.com/location1/usc/distance/16090/keyword/usc/type/Default
+2. http://homework8-env.ew8zmcb2mm.us-east-2.elasticbeanstalk.com/lat/34.0266/lng/-118.2831/distance/16090/keyword/pizza/type/Default
+3. http://homework8-env.ew8zmcb2mm.us-east-2.elasticbeanstalk.com/token/CrQCJwEAAKjcswS2jlwG8k3PJeAeuWt91_leup3G8pT1QV0LGTsbQRt1sX_VqIaLYDsc-UmqLRy9BrkxddenOiVWblUU0ZRHV_wxn9sNacrmJpbzyUrGEUUcdUZAOwzantvrhbBgm3rlLi2PpwbsgM4IfSvLum7_N28tDtUZVu-NvywOXCgbfpkPy8z97Oad2Y0fIQ2y8oUCrLsP65JoyqWBAsbxi5uiIazaCfQfykkdJHf87NM-b2qzSZY4xXliR1kOFt14NH-h5AEraP7nDzIOUKFyEqYLGy9nDAw_XuKT70u6_rUWmMK_LYfXlaOEZbMCOemJMZ7nkZyT_pp0drSl5g9c-Nar5xDVFwCBi49R6EzEQT_03Qzd-MM5Zn4YEmgJkfcx6yzoo7uaTnUQLUOi5cfhXh0SEHmLtGWU_qb_QjriMlmkWesaFC56pdKyIC20VTmQ9pm-zP6914EL
+4. http://homework8-env.ew8zmcb2mm.us-east-2.elasticbeanstalk.com/placeID/ChIJk4QshHjIwoARtGhnQtLg9hQ
+5. http://homework8-env.ew8zmcb2mm.us-east-2.elasticbeanstalk.com/name/"+encodeURIComponent(out)+"/address1/"+encodeURIComponent(address1)+"/city/"+encodeURIComponent(city)+"/state/"+encodeURIComponent(state)+"/country/"+encodeURIComponent(country)+"/phone/"+phone
+6. http://homework8-env.ew8zmcb2mm.us-east-2.elasticbeanstalk.com/name/Joe's%20Pizza%20Broadway/address1/1435%20Broadway/city/New%20York/state/NY/country/US/phone/+16465594878
